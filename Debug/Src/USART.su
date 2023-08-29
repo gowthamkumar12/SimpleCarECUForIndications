@@ -1,0 +1,3 @@
+../Src/USART.c:11:6:USARTInit	4	static
+../Src/USART.c:33:6:USARTWrite	24	static
+../Src/USART.c:44:9:USARTRead	16	static
